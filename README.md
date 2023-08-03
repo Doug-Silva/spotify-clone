@@ -9,7 +9,7 @@
   <p>Página clone do site de músicas Spotify, desenvolvido em HTML & CSS</p>
 
   <div>
-    <a href="https://github.com/Doug-Silva/spotify-clone/blob/main/LICENSE"><img src="https://img.shields.io/npm/l/react" 
+    <a href="https://github.com/Doug-Silva/spotify-clone/blob/main/LICENSE"><img src="https://img.shields.io/badge/license-MIT-green" 
     alt="License MIT"></a>
   </div><br>
 
